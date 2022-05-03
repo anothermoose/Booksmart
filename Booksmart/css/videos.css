@@ -1,0 +1,21 @@
+.featurette-box {
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.container {
+    box-sizing: content-box;
+}
+
+.container img {
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.title-box {
+    text-align: center;
+}

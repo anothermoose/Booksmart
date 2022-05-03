@@ -1,0 +1,43 @@
+/* Store Page */
+
+.wrap {
+    border: 5px solid black;
+    margin-left: 100px;
+    margin-right: 75px;
+}
+ .store-img {
+    width: 45%;
+    float: left;
+ }
+
+ .store {
+    width: 45%;
+    float: right;
+    padding-top: 13%;
+ }
+
+ /* wrap clearfix*/
+.wrap:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.spotify {
+    padding-bottom: 10px;
+}
+
+li a {
+    color: white;
+    text-decoration-line: none;
+    text-align: center;
+    padding: 30px;
+}
+
+li a:hover {
+    color: yellow;
+}
+
+p {
+    font-weight: 600;
+}

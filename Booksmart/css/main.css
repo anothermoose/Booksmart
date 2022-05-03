@@ -1,0 +1,130 @@
+html {
+    height: 100%;
+}
+
+header {
+    box-sizing: border-box;
+    position: relative;
+    transform-style: inherit;
+    margin-bottom: 25px;
+}
+
+body {
+    background-color: black;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */ 
+}
+
+nav {
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: right;
+    padding-right: 90px;
+}
+
+nav a {
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+nav a:hover {
+    color: yellow;
+    text-decoration: none;
+    transition-delay: 0.1s;
+}
+
+nav a:focus {
+    color: yellow;
+    text-decoration: underline 5px;
+    
+}
+
+.menu-logo {
+    display: flex;
+    float: left;
+    margin-top: -30px;
+    padding-left: 80px;
+}
+
+footer {
+    text-align: right;
+    padding-top: 35px;
+    padding-bottom: 10px;
+    margin-left: auto;
+}
+
+footer a {
+    color: white;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer .socialmedia-icons {
+    color: white;
+    text-align: center;
+}
+
+.socialmedia-icons a :hover {
+    color: yellow;
+    text-decoration: none;
+    transition-delay: 0.1s;
+}
+
+h1{
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-weight: 600;
+    font-size: 90px;
+    text-decoration: none;
+}
+
+h2 {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-weight: 600;
+    font-size: 60px;
+    text-decoration: none;
+}
+
+h3 {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-weight: 600;
+    font-size: 36px;
+	line-height: 25%;
+}
+
+h4 {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-weight: 600;
+    font-size: 20px;
+	line-height: 25%;
+}
+
+h5 {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.3;
+}
+
+h6 {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-weight: 400;
+    font-size: 10px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top:0;
+    line-height: 1.8em;
+}
+
+

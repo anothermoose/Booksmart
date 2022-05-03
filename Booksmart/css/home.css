@@ -1,0 +1,187 @@
+/* Home Page */
+main {
+    height: 250px;
+    text-align: center;
+    padding-top: 420px;
+    background-image: url(/img/home.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.home-trailer {
+    background-color: black;
+    color: yellow;
+    margin-left: 512px;
+    width: 420px;
+    height: 60px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+a {
+    text-decoration: none;
+}
+
+.home-trailer h2{
+    background-color: black;
+    color: yellow;
+}
+  
+.home-trailer :hover{
+    background-color: yellow;
+    color: black;
+    text-decoration-line: none;
+}
+
+.reviews {
+    width: 100%;
+}
+
+.reviewbox1 {
+    background-color: black;
+    color: white;
+    width: 45%;
+    float: left;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.reviewbox2 {
+    background-color: yellow;
+    color: black;
+    width: 45%;
+    float: right;
+    height: 25vh;
+    padding: 40px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* review boxfill*/
+.reviews::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Review transitions*/
+
+@keyframes topFadeOut {
+  0% {
+    position: absolute;
+    top: -3rem;
+    opacity: 0;
+  }
+
+  75% {
+    position: absolute;
+    top: 25%;
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+  
+  
+.first-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-duration: 5s;
+    color: black;
+}
+
+.second-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 4s;
+    animation-duration: 6s;
+    color: black;
+}
+
+.third-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 8s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.forth-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 12s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.fifth-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 16s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.sixth-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 20s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.seventh-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 24s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.eighth-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 28s;
+    animation-duration: 5s;
+    color: black;
+}
+
+.ninth-text {
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 0;
+    animation-name: topFadeOut;
+    animation-delay: 32s;
+    animation-duration: 5s;
+    color: black;
+}
