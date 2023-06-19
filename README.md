@@ -17,5 +17,4 @@ For this project, we were taught the basics of HTML in how we can create our own
 
 ## Author
 
-- Chiara Verducci
-- Frontend Mentor - [@anothermoose](https://www.frontendmentor.io/profile/anothermoose)
+- Chiara V
