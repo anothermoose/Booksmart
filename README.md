@@ -14,7 +14,3 @@ For this project, we were taught the basics of HTML in how we can create our own
 
 - Solution URL: [(https://github.com/filesbychiara/Booksmart)](https://github.com/filesbychiara/Booksmart)
 - Live Site URL: [(booksmart-cw1.netlify.app)](https://booksmart-cw1.netlify.app/)
-
-## Author
-
-- Chiara V
