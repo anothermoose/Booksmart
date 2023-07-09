@@ -5,4 +5,4 @@ For this project, we were taught the basics of HTML in how we can create our own
 # Links
 
 - Solution URL: [(https://github.com/filesbychiara/Booksmart)](https://github.com/filesbychiara/Booksmart)
-- Live Site URL: [(booksmart-cw1.netlify.app)](filesbychiara-booksmart-landing-page)
+- Live Site URL: [(filesbychiara-booksmart-landing-page)](filesbychiara-booksmart-landing-page)
