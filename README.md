@@ -5,4 +5,4 @@ For this university project, we were taught the basics of HTML in how we can cre
 # Links
 
 - Solution URL: [(https://github.com/filesbychiara/booksmart)](https://github.com/filesbychiara/booksmart)
-- Live Site URL: [([filesbychiara-booksmart-landing-page](https://filesbychiara-booksmart-project.netlify.app/)
+- Live Site URL: [(filesbychiara-booksmart-landing-page)](https://filesbychiara-booksmart-project.netlify.app/)
