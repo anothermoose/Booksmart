@@ -1,16 +1,8 @@
 # Booksmart - Web Development Project University Year 1 
 
-## Table of contents
+For this project, we were taught the basics of HTML in how we can create our own website. We were given the role of a web developer to create a website for a movie, musician or celebrity.
 
-- [Overview](#overview)
-  - [Links](#links)
-
-
-## Overview
-
-For this project, we were taught the basics of HTML in how we can create our own website. We were given the role of a web designer for an agency where we needed to create a website for a movie, musician or celebrity.
-
-### Links
+# Links
 
 - Solution URL: [(https://github.com/filesbychiara/Booksmart)](https://github.com/filesbychiara/Booksmart)
-- Live Site URL: [(booksmart-cw1.netlify.app)](https://booksmart-cw1.netlify.app/)
+- Live Site URL: [(booksmart-cw1.netlify.app)](filesbychiara-booksmart-landing-page)
